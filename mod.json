@@ -15,7 +15,7 @@
 	],
 	"id": "tjf1.checkpoint",
 	"name": "Checkpoint",
-	"version": "v0.0.1",
+	"version": "v0.0.2",
 	"developer": "tjf1",
 	"description": "Save your level progress between sessions."
 }
