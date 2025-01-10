@@ -1,0 +1,21 @@
+{
+	"geode": "4.1.2",
+	"gd": {
+		"win": "2.2074",
+		"android": "2.2074",
+		"mac": "2.2074",
+		"ios": "2.2074"
+	},
+	"dependencies": [
+		{
+			"id": "geode.node-ids",
+			"version": ">=1.17.0",
+			"importance": "required"
+		}
+	],
+	"id": "tjf1.checkpoint",
+	"name": "Checkpoint",
+	"version": "v0.0.1",
+	"developer": "tjf1",
+	"description": "Save your level progress between sessions."
+}
