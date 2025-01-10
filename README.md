@@ -1,4 +1,5 @@
 # Checkpoint
+<<<<<<< HEAD
 This is where she makes a mod.
 
 <img src="logo.png" width="150" alt="the mod's logo" />
@@ -21,3 +22,6 @@ geode build
 * [Geode CLI](https://github.com/geode-sdk/cli)
 * [Bindings](https://github.com/geode-sdk/bindings/)
 * [Dev Tools](https://github.com/geode-sdk/DevTools)
+=======
+Geometry Dash mod to save progress between sessions.
+>>>>>>> 40972e5e8a6d0513aacadb8112972011f82fb5f3

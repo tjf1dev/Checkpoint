@@ -30,6 +30,7 @@
 *.exe
 *.out
 *.app
+<<<<<<< HEAD
 
 # Macos be like
 **/.DS_Store
@@ -62,3 +63,5 @@ build-*/
 # CLion
 .idea/
 /cmake-build-*/
+=======
+>>>>>>> 40972e5e8a6d0513aacadb8112972011f82fb5f3
