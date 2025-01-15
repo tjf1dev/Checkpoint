@@ -1,1 +1,3 @@
-Edit this file to change your mod's support info, or delete it if you don't need it.
+# Support
+> Found a bug report? Want to submit feedback?
+Please contact me on Discord: `tjf1`

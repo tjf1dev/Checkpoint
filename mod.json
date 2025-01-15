@@ -1,5 +1,24 @@
 {
 	"geode": "4.1.2",
+	"settings": {
+		"main-tab": {
+			"type": "title",
+			"name": "Main Settings",
+			"description": "Most essential settings for Checkpoint"
+		},
+		"loading": {
+			"type": "bool",
+			"name": "Enable Loading",
+			"description": "Toggle loading saved progress on levels. Does not impact saving",
+			"default": true
+		},
+		"saving": {
+			"type": "bool",
+			"name": "Enable Saving",
+			"description": "Toggles saving progress on levels. Does not impact loading",
+			"default": true
+		}
+	},
 	"gd": {
 		"win": "2.2074",
 		"android": "2.2074",
@@ -15,7 +34,7 @@
 	],
 	"id": "tjf1.checkpoint",
 	"name": "Checkpoint",
-	"version": "v0.0.2",
+	"version": "v0.0.41",
 	"developer": "tjf1",
 	"description": "Save your level progress between sessions."
 }
